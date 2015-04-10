@@ -10,3 +10,5 @@ alert(Blog.title+" , 这篇博文的作者是："+Blog.author+"。感谢阅读。");
 apply是将config和obj参数的同名属性值覆盖，并将config中的其它属性添加到obj中。
 
 applyIf是将config中的属性添加到obj中，但obj参数原有的属性值不变。
+
+Test
